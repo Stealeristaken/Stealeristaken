@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working as a freelance data scientist/engineer.<br>🌱 I’m currently learning machine learning and artificial intelligence.<br>👯 I’m looking to collaborate on high level AI jobs.<br>📫 How to reach me: arda-orcun@hotmail.com<br>⚡ Fun fact: I'm the normal one.
+🔭 I’m currently working as a data scientist/engineer.<br>🌱 I’m currently learning machine learning and artificial intelligence.<br>👯 I’m looking to collaborate on high level AI jobs.<br>📫 How to reach me: arda-orcun@hotmail.com<br>⚡ Fun fact: I'm the normal one.
 
 
 ## 🌐 Socials:
@@ -19,11 +19,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Stealeristaken&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
