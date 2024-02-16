@@ -6,6 +6,10 @@
 # 💫 About Me:
 🔭 I’m currently working as a data scientist/engineer.<br>🌱 I’m currently learning machine learning and artificial intelligence.<br>👯 I’m looking to collaborate on high level AI jobs.<br>📫 How to reach me: arda-orcun@hotmail.com<br>⚡ Fun fact: I'm the normal one.
 
+## Competitions
+**Turkey**
+- Forecasting transaction counts on a merchant basis. - **2nd / 328** ([Kaggle](https://www.kaggle.com/competitions/iyzico-datathon/leaderboard)) [Feb 2024]
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ardaorcun/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/dantestea1er) 
