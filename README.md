@@ -9,6 +9,7 @@
 ## Competitions
 **Turkey**
 - Forecasting transaction counts on a merchant basis. - **2nd / 328** ([Kaggle](https://www.kaggle.com/competitions/iyzico-datathon/leaderboard)) [Feb 2024]
+- Recommending new job listings based on applicants' previous applications. - **2nd** ([Kaggle](https://www.kaggle.com/competitions/datathonjob-predictathon/leaderboard)) [Feb 2024]
 
 
 ## 🌐 Socials:
