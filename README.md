@@ -1,8 +1,3 @@
-<img src="https://github.com/Stealeristaken/Stealeristaken/blob/main/obi-wan-hello-there-obi-wan.gif?raw=true
-" width="auto">
-
-
-
 # 💫 About Me:
 🔭 I’m currently working as a data scientist at Schneider Electric.<br>🌱 I’m currently learning machine learning and artificial intelligence.<br>👯 I’m looking to collaborate on high level AI jobs.<br>📫 How to reach me: arda-orcun@hotmail.com<br>⚡ Fun fact: I'm the normal one.
 
@@ -10,6 +5,7 @@
 **Turkey**
 - Forecasting transaction counts on a merchant basis. - **2nd / 328** ([Kaggle](https://www.kaggle.com/competitions/iyzico-datathon/leaderboard)) [Feb 2024]
 - Recommending new job listings based on applicants' previous applications. - **2nd** ([Kaggle](https://www.kaggle.com/competitions/datathonjob-predictathon/leaderboard)) [Feb 2024]
+- TEKNOFEST Turkish Natural Language Processing Finalist [July-August 2024]
 
 
 ## 🌐 Socials:
