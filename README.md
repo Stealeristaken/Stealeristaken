@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a data scientist at Schneider Electric.<br>🌱 I’m currently learning machine learning and artificial intelligence.<br>👯 I’m looking to collaborate on high level AI jobs.<br>📫 How to reach me: arda-orcun@hotmail.com<br>⚡ Fun fact: I'm the normal one.
+🔭 I’m currently working as a data scientist at Schneider Electric.<br>🌱 I’m currently learning machine learning and artificial intelligence.<br>👯 I’m looking to collaborate on high level AI jobs.<br>📫 How to reach me: arda.orcun@dataleak.com.tr<br>⚡ Fun fact: I'm the normal one.
 
 ## Competitions
 **Turkey**
