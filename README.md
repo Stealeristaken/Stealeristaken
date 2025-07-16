@@ -1,5 +1,29 @@
 # 💫 About Me:
-🔭 I’m currently working as a data scientist at Schneider Electric.<br>📫 How to reach me: arda.orcun@dataleak.com.tr<br>⚡ Fun fact: I'm the normal one.
+🔭 I’m currently working as a data scientist intern at Koç Finans.<br>📫 How to reach me: arda.orcun@dataleak.com.tr<br>⚡ Fun fact: I'm the normal one.
+
+## Professional Experience
+
+**Forecasting & Marketing Insights**  
+- Developed an advanced forecasting tool leveraging transformer‑based and pre‑trained models for Marketing teams, improving forecast accuracy by 2.5× on the symmetric metric.
+
+**Cash Flow Forecasting Pipeline**   
+- Built end‑to‑end cashflow forecasting pipeline using transformer architectures, integrated into AWS SageMaker for seamless model training and deployment.
+
+**Customer Name Correction Model** 
+- Deployed a real‑time model to correct misspelled customer names via open‑source large language models, reducing manual data‑cleaning tasks by 80%.
+
+**E2E NLP Segment Classifier** 
+- Architected and implemented an NLP‑driven segment classifier to validate data entry, ensuring 99% compliance with system standards.
+
+**Sales Visit Anomaly Detection**  
+- Designed a statistical modeling solution to analyze sales visit data and detect anomalies, flagging 95% of outlier patterns before reporting.
+
+**RFM Segmentation & Tableau Dashboards**  
+- Developed a flexible RFM segmentation model in Python and visualized customer‑segment insights across business units via interactive Tableau dashboards.
+
+**ETL & CI/CD Orchestration** 
+- Managed complex SQL queries and orchestrated full ETL + CI/CD pipelines using Python, AWS SageMaker, and Redshift, supporting multiple production services.
+ 
 
 ## Competitions
 **Turkey**
