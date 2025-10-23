@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a data scientist intern at Koç Finans.<br>📫 How to reach me: arda.orcun@dataleak.com.tr<br>⚡ Fun fact: I'm the normal one.
+🔭 I’m currently working as a data scientist at PwC.<br>📫 How to reach me: arda-orcun@hotmail.com<br>⚡ Fun fact: I'm the normal one.
 
 ## Professional Experience
 
