@@ -1,46 +1,79 @@
-# 💫 About Me:
-🔭 I’m currently working as a data scientist at PwC.<br>📫 How to reach me: arda-orcun@hotmail.com<br>⚡ Fun fact: I'm the normal one.
+# 👋 Hi, I’m Arda Orçun
 
-## Professional Experience
+Data Scientist focused on **supply chain & logistics analytics** (forecasting, optimization, simulation) and **financial risk analytics** (climate risk, credit risk).
 
-**Forecasting & Marketing Insights**  
-- Developed an advanced forecasting tool leveraging transformer‑based and pre‑trained models for Marketing teams, improving forecast accuracy by 2.5× on the symmetric metric.
+- 📍 Istanbul, Türkiye
+- 💼 Data Scientist Associate @ PwC (Oct 2025 – Present)
+- 📫 arda-orcun@hotmail.com
 
-**Cash Flow Forecasting Pipeline**   
-- Built end‑to‑end cashflow forecasting pipeline using transformer architectures, integrated into AWS SageMaker for seamless model training and deployment.
+**Links:**  
+[LinkedIn](https://linkedin.com/in/ardaorcun) · [GitHub](https://github.com/stealeristaken) · [Kaggle](https://kaggle.com/ardaorcun)
 
-**Customer Name Correction Model** 
-- Deployed a real‑time model to correct misspelled customer names via open‑source large language models, reducing manual data‑cleaning tasks by 80%.
+---
 
-**E2E NLP Segment Classifier** 
-- Architected and implemented an NLP‑driven segment classifier to validate data entry, ensuring 99% compliance with system standards.
+## 🔭 What I’m working on
 
-**Sales Visit Anomaly Detection**  
-- Designed a statistical modeling solution to analyze sales visit data and detect anomalies, flagging 95% of outlier patterns before reporting.
+At PwC, I develop quantitative models to assess **climate risk financial impacts** and integrate them into **PD/LGD** frameworks; also support **PD/LGD validation testing** for audit engagements.
 
-**RFM Segmentation & Tableau Dashboards**  
-- Developed a flexible RFM segmentation model in Python and visualized customer‑segment insights across business units via interactive Tableau dashboards.
+---
 
-**ETL & CI/CD Orchestration** 
-- Managed complex SQL queries and orchestrated full ETL + CI/CD pipelines using Python, AWS SageMaker, and Redshift, supporting multiple production services.
- 
+## 🧩 Experience (timeline)
 
-## Competitions
+### PwC — Data Scientist Associate (Oct 2025 – Present)
+- Climate risk models → **PD/LGD** integration
+- **PD/LGD validation** support
+
+### Koç Finans A.Ş. — Data Scientist (Contract) (Jun 2025 – Oct 2025)
+- Dynamic **credit scoring** pipeline for legal follow-up risk
+- Automated reporting agent (LangChain + Azure OpenAI + SQLite)
+- Meeting-scheduling agent (LangChain + Azure OpenAI + PostgreSQL)
+
+### Schneider Electric — Data Scientist (May 2024 – Jun 2025)
+- Multi-echelon distribution & factory-to-customer allocation (network-flow / MILP-style + heuristics)
+- Cartonization & load optimization (bin packing / knapsack variants + heuristics)
+- Forecasting + cashflow transformer pipelines
+- ETL/CI-CD with Python, SageMaker, Redshift; global teams (MEA & Central Asia)
+
+### Webselco — Data Scientist (Mar 2023 – Nov 2023)
+- Lightweight **C++ GPU inference backend** prototypes (latency & memory efficiency)
+
+> Note: Some work is internal/confidential; I can share patterns, architectures, and sanitized examples.
+
+---
+
+## 🏁 Competitions
 **Turkey**
-- Forecasting transaction counts on a merchant basis. - **2nd / 328** ([Kaggle](https://www.kaggle.com/competitions/iyzico-datathon/leaderboard)) [Feb 2024]
-- Recommending new job listings based on applicants' previous applications. - **2nd** ([Kaggle](https://www.kaggle.com/competitions/datathonjob-predictathon/leaderboard)) [Feb 2024]
-- TEKNOFEST Turkish Natural Language Processing Finalist [July-August 2024]
+- Forecasting transaction counts on a merchant basis — **2nd Place** ([Kaggle Leaderboard](https://www.kaggle.com/competitions/iyzico-datathon/leaderboard)) [Feb 2024]
+- Recommending new job listings based on applicants' previous applications — **2nd Place** ([Kaggle Leaderboard](https://www.kaggle.com/competitions/datathonjob-predictathon/leaderboard)) [Feb 2024]
+- TEKNOFEST Turkish Natural Language Processing Finalist [July–August 2024]
+
+---
+
+## 🎤 Academic / Talks
+- **Conference Presentation (2025):** “Coreference and Entity-Aware Sentiment Analysis through Multi-Agent to Single-Agent Integration.”
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ardaorcun/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/dantestea1er) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Stealeristaken&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Stealeristaken&theme=great-gatsby&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stealeristaken&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 💻 Tech Stack
+
+**Core:** Python · SQL · C++  
+**ML/NLP:** PyTorch · TensorFlow · Transformers · Scikit-learn · XGBoost  
+**Optimization/Simulation:** MILP-style modeling · heuristics/meta-heuristics · scenario analysis  
+**Cloud/MLOps:** AWS (SageMaker, Redshift) · Docker · Git  
+**Data:** MongoDB  
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=stealeristaken&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://img.shields.io/badge/dynamic/json?style=flat&label=Kaggle&query=%24.totalCompetitions&url=https%3A%2F%2Fwww.kaggle.com%2Fardaorcun)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=stealeristaken&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stealeristaken&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
+
+⚡ Fun fact: I'm the normal one.
