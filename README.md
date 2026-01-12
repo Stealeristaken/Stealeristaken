@@ -67,7 +67,6 @@ At PwC, I develop quantitative models to assess **climate risk financial impacts
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=stealeristaken&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://img.shields.io/badge/dynamic/json?style=flat&label=Kaggle&query=%24.totalCompetitions&url=https%3A%2F%2Fwww.kaggle.com%2Fardaorcun)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stealeristaken&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stealeristaken&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
