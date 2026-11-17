@@ -14,9 +14,7 @@ Data Scientist / ML Engineer building **production LLM systems** (RAG, hybrid se
 ## 🔭 What I'm working on
  
 At Garanti BBVA, I work on **LLM-powered conversational AI** in production: retrieval (hybrid search, embeddings), model serving, and evaluation/monitoring of LLM systems.
- 
-On the side: a Turkish **text-to-SQL** system (multi-agent, locally hosted, role-based permissions) as my graduation thesis.
- 
+  
 ---
  
 ## 🧩 Experience (timeline)
